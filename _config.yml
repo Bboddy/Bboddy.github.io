@@ -1,11 +1,11 @@
 # Site settings
-author: puckish-system-8282
-title: 
+author: Bryce Boddy
+title: First Mile into Code Bootcamp
 header-img: img/home-bg.png
 email: bryce.boddy@gmail.com
-copyright_name: puckish-system-8282
+copyright_name: Bryce Boddy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  First Mile
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Bboddy
